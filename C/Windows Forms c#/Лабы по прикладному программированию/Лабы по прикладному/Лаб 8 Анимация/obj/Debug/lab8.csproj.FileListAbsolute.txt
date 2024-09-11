@@ -1,0 +1,19 @@
+C:\Users\Katerina\source\repos\lab8\bin\Debug\lab8.exe.config
+C:\Users\Katerina\source\repos\lab8\bin\Debug\lab8.exe
+C:\Users\Katerina\source\repos\lab8\bin\Debug\lab8.pdb
+C:\Users\Katerina\source\repos\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\Katerina\source\repos\lab8\obj\Debug\lab8.Form1.resources
+C:\Users\Katerina\source\repos\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\Katerina\source\repos\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\Katerina\source\repos\lab8\obj\Debug\lab8.exe
+C:\Users\Katerina\source\repos\lab8\obj\Debug\lab8.pdb
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\bin\Debug\lab8.exe.config
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\bin\Debug\lab8.exe
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\bin\Debug\lab8.pdb
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.Form1.resources
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.exe
+C:\Users\2.0\Downloads\Лабы по прикладному\lab8\obj\Debug\lab8.pdb
