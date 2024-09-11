@@ -1,0 +1,10 @@
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\bin\Debug\ЛБР5 - Полиморфизм.exe.config
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\bin\Debug\ЛБР5 - Полиморфизм.exe
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\bin\Debug\ЛБР5 - Полиморфизм.pdb
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5___Полиморфизм.Form1.resources
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5___Полиморфизм.Properties.Resources.resources
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5 - Полиморфизм.csproj.GenerateResource.cache
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5 - Полиморфизм.csproj.CoreCompileInputs.cache
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5 - Полиморфизм.exe
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5 - Полиморфизм.pdb
+C:\Users\ALlex03\source\repos\ЛБР5 - Полиморфизм\ЛБР5 - Полиморфизм\obj\Debug\ЛБР5 - Полиморфизм.csprojAssemblyReference.cache
