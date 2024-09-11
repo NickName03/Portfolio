@@ -1,0 +1,16 @@
+﻿Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_close в функции main.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_open в функции main.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_errmsg в функции main.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_prepare_v2 в функции main.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_bind_text в функции "void __cdecl query(struct sqlite3_stmt *,char const *)" (?query@@YAXPEAUsqlite3_stmt@@PEBD@Z).
+sql3.obj : error LNK2001: неразрешенный внешний символ sqlite3_bind_text.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_clear_bindings в функции "void __cdecl query(struct sqlite3_stmt *,char const *)" (?query@@YAXPEAUsqlite3_stmt@@PEBD@Z).
+sql3.obj : error LNK2001: неразрешенный внешний символ sqlite3_clear_bindings.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_step в функции "void __cdecl query(struct sqlite3_stmt *,char const *)" (?query@@YAXPEAUsqlite3_stmt@@PEBD@Z).
+sql3.obj : error LNK2001: неразрешенный внешний символ sqlite3_step.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_column_text в функции "void __cdecl query(struct sqlite3_stmt *,char const *)" (?query@@YAXPEAUsqlite3_stmt@@PEBD@Z).
+sql3.obj : error LNK2001: неразрешенный внешний символ sqlite3_column_text.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_finalize в функции main.
+Lab.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_reset в функции "void __cdecl query(struct sqlite3_stmt *,char const *)" (?query@@YAXPEAUsqlite3_stmt@@PEBD@Z).
+sql3.obj : error LNK2001: неразрешенный внешний символ sqlite3_reset.
+C:\Users\pavlo\source\repos\Portfolio\C\zachet\x64\Debug\sql3.exe : fatal error LNK1120: неразрешенных внешних элементов: 10
