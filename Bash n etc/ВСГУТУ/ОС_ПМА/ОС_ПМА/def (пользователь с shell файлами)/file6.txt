@@ -1,0 +1,8 @@
+1.txt
+4.sh
+5.sh
+6.sh
+dir1
+dirLast
+file6.txt
+snap

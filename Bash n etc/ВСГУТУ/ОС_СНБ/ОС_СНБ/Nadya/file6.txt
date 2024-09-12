@@ -1,0 +1,8 @@
+1.sh
+2.sh
+3.sh
+adsfdds.txt
+dir1
+dirLast
+file6.txt
+snap

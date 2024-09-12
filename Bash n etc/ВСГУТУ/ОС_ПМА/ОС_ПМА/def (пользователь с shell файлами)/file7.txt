@@ -1,0 +1,8 @@
+admin_kaf
+def
+stud_1
+stud_2
+stud_3
+stud_4
+stud_5
+student
